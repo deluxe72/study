@@ -1,2 +1,2 @@
-# study
-Repo for learning Git
+# study 
+Repo for learning Git and Github
