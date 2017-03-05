@@ -1,2 +1,2 @@
 This is some text.
-This was done ny deluxe72 in branch branch1.
+This was done by deluxe72 in branch branch1.
